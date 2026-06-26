@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.25)  27 DEC 2025 09:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2025.7.25)  26 JUN 2026 23:48
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -703,7 +703,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 \pydata@fh@0=\write6
 \openout6 = `_7824D94F53E0E6B84D2CC32B99926146.data.minted'.
 
-runsystem(latexminted config  --timestamp 20251227093219 7824D94F53E0E6B84D2CC3
+runsystem(latexminted config  --timestamp 20260626234846 7824D94F53E0E6B84D2CC3
 2B99926146)...executed.
 
 
@@ -1411,13 +1411,13 @@ Package rerunfilecheck Info: File `teamnote2.out' has not changed.
 (rerunfilecheck)             Checksum: AE71E9C84A720CD4D12E86C72AD3E9E6;7182.
  ) 
 Here is how much of TeX's memory you used:
- 17264 strings out of 474486
- 339118 string characters out of 5743283
+ 17274 strings out of 474486
+ 339240 string characters out of 5743283
  1962542 words of memory out of 5000000
- 39124 multiletter control sequences out of 15000+600000
- 593364 words of font info for 161 fonts, out of 8000000 for 9000
+ 39134 multiletter control sequences out of 15000+600000
+ 595688 words of font info for 169 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 85i,11n,93p,714b,1252s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 85i,12n,93p,714b,1252s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx10.pfb><C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmbx8.pfb><C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/fonts/type1
@@ -1528,7 +1528,7 @@ ms/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd2.pfb><C:/Users/OFFICE/AppData
 FFICE/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/nanummjmd5.pf
 b><C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/fonts/type1/public/nanumtype1/
 nanummjmd6.pfb>
-Output written on teamnote2.pdf (25 pages, 3173348 bytes).
+Output written on teamnote2.pdf (25 pages, 3177308 bytes).
 PDF statistics:
  931 PDF objects out of 1000 (max. 8388607)
  87 named destinations out of 1000 (max. 500000)
