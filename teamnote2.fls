@@ -203,10 +203,6 @@ INPUT .\teamnote2.out
 OUTPUT teamnote2.out
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr10.tfm
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd3.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmba.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmac.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc6.tfm
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\cmextra\cmex7.tfm
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsa.fd
@@ -282,10 +278,6 @@ INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjbd3.tfm
 OUTPUT _7824D94F53E0E6B84D2CC32B99926146.data.minted
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt8.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmd3.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmba.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmac.tfm
-INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\nanumtype1\nanummjmc6.tfm
 INPUT C:\Users\OFFICE\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\tex\latex\nanumtype1\lucnanumgt.fd
 INPUT C:\Users\OFFICE\AppData\Local\Programs\MiKTeX\tex\latex\nanumtype1\lucnanumgt.fd

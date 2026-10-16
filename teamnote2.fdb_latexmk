@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1782485315.19447 "teamnote2.tex" "teamnote2.pdf" "teamnote2" 1782485322.13263 2
+["pdflatex"] 1792159951.7463 "teamnote2.tex" "teamnote2.pdf" "teamnote2" 1792159964.63884 2
   "C:/Users/OFFICE/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1757713264 227667 6a0586f8d3ef069d72f1c7992e75d775 ""
   "C:/Users/OFFICE/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1753426724 24225518 bf2533cf4a5ab9442151d123c08984a3 ""
   "C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
@@ -297,10 +297,10 @@
   "C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/tex/latex/upquote/upquote.sty" 1335534756 1088 517e01cde97c1c0baf72e69d43aa5a2e ""
   "C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/OFFICE/AppData/Local/Programs/MiKTeX/tex/plain/kotex-plain/kotexutf-core.tex" 1655776419 22796 cdbc6dbba903a5287c558339ae446988 ""
-  "teamnote2.aux" 1782485320 8319 136496863b2ab439f1562c175dc55507 "pdflatex"
-  "teamnote2.out" 1782485320 7182 ae71e9c84a720cd4d12e86c72ad3e9e6 "pdflatex"
-  "teamnote2.tex" 1782485301 78197 dbdd0e888dc3f5d16b840da0ea340a76 ""
-  "teamnote2.toc" 1782485320 4809 fd4a9062b64a0b2464450f7b7d563a6d "pdflatex"
+  "teamnote2.aux" 1792159960 8319 136496863b2ab439f1562c175dc55507 "pdflatex"
+  "teamnote2.out" 1792159960 7182 ae71e9c84a720cd4d12e86c72ad3e9e6 "pdflatex"
+  "teamnote2.tex" 1792159921 78176 bbb652de108e90858663d92d0bb28140 ""
+  "teamnote2.toc" 1792159961 4809 fd4a9062b64a0b2464450f7b7d563a6d "pdflatex"
   (generated)
   "_7824D94F53E0E6B84D2CC32B99926146.data.minted"
   "teamnote2.aux"
